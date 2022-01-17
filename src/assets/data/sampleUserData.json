@@ -1,0 +1,32 @@
+[
+  {
+    "admin": {
+      "username": "admin",
+      "password": "admin",
+      "emailId": "admin@gmail.com",
+      "orders": [
+        {"bookId": "1", "count": "1"},
+        {"bookId": "6", "count": "4"}
+      ],
+      "cart": [
+        {"bookId": "2", "count": "5"},
+        {"bookId": "10", "count": "1"}
+      ]
+    }
+  },
+  {
+    "admin1": {
+      "username": "admin1",
+      "password": "admin1",
+      "emailId": "admin1@gmail.com",
+      "orders": [
+        {"bookId": "3", "count": "2"},
+        {"bookId": "10", "count": "1"}
+      ],
+      "cart": [
+        {"bookId": "8", "count": "9"},
+        {"bookId": "11", "count": "3"}
+      ]
+    }
+  }
+]
